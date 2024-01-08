@@ -1,0 +1,10 @@
+C:\Dropbox\visualstudio-c#\C Sharp vizsgafeladatok\011 Vizsga\bin\Debug\011 Vizsga.exe.config
+C:\Dropbox\visualstudio-c#\C Sharp vizsgafeladatok\011 Vizsga\bin\Debug\011 Vizsga.exe
+C:\Dropbox\visualstudio-c#\C Sharp vizsgafeladatok\011 Vizsga\bin\Debug\011 Vizsga.pdb
+C:\Dropbox\visualstudio-c#\C Sharp vizsgafeladatok\011 Vizsga\obj\Debug\011 Vizsga.csprojAssemblyReference.cache
+C:\Dropbox\visualstudio-c#\C Sharp vizsgafeladatok\011 Vizsga\obj\Debug\_011_Vizsga.Form1.resources
+C:\Dropbox\visualstudio-c#\C Sharp vizsgafeladatok\011 Vizsga\obj\Debug\_011_Vizsga.Properties.Resources.resources
+C:\Dropbox\visualstudio-c#\C Sharp vizsgafeladatok\011 Vizsga\obj\Debug\011 Vizsga.csproj.GenerateResource.cache
+C:\Dropbox\visualstudio-c#\C Sharp vizsgafeladatok\011 Vizsga\obj\Debug\011 Vizsga.csproj.CoreCompileInputs.cache
+C:\Dropbox\visualstudio-c#\C Sharp vizsgafeladatok\011 Vizsga\obj\Debug\011 Vizsga.exe
+C:\Dropbox\visualstudio-c#\C Sharp vizsgafeladatok\011 Vizsga\obj\Debug\011 Vizsga.pdb

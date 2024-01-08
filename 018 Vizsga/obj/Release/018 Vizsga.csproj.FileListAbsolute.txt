@@ -1,0 +1,10 @@
+C:\Dropbox\visualstudio-c#\C Sharp vizsgafeladatok\018 Vizsga\bin\Release\018 Vizsga.exe.config
+C:\Dropbox\visualstudio-c#\C Sharp vizsgafeladatok\018 Vizsga\bin\Release\018 Vizsga.exe
+C:\Dropbox\visualstudio-c#\C Sharp vizsgafeladatok\018 Vizsga\bin\Release\018 Vizsga.pdb
+C:\Dropbox\visualstudio-c#\C Sharp vizsgafeladatok\018 Vizsga\obj\Release\018 Vizsga.csprojAssemblyReference.cache
+C:\Dropbox\visualstudio-c#\C Sharp vizsgafeladatok\018 Vizsga\obj\Release\_018_Vizsga.Form1.resources
+C:\Dropbox\visualstudio-c#\C Sharp vizsgafeladatok\018 Vizsga\obj\Release\_018_Vizsga.Properties.Resources.resources
+C:\Dropbox\visualstudio-c#\C Sharp vizsgafeladatok\018 Vizsga\obj\Release\018 Vizsga.csproj.GenerateResource.cache
+C:\Dropbox\visualstudio-c#\C Sharp vizsgafeladatok\018 Vizsga\obj\Release\018 Vizsga.csproj.CoreCompileInputs.cache
+C:\Dropbox\visualstudio-c#\C Sharp vizsgafeladatok\018 Vizsga\obj\Release\018 Vizsga.exe
+C:\Dropbox\visualstudio-c#\C Sharp vizsgafeladatok\018 Vizsga\obj\Release\018 Vizsga.pdb

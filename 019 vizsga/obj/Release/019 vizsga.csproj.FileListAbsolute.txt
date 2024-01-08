@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\202021 vizsgafeladatok\019 vizsga\019 vizsga\bin\Release\019 vizsga.exe.config
+C:\Users\user\Desktop\202021 vizsgafeladatok\019 vizsga\019 vizsga\bin\Release\019 vizsga.exe
+C:\Users\user\Desktop\202021 vizsgafeladatok\019 vizsga\019 vizsga\bin\Release\019 vizsga.pdb
+C:\Users\user\Desktop\202021 vizsgafeladatok\019 vizsga\019 vizsga\obj\Release\_019_vizsga.Form1.resources
+C:\Users\user\Desktop\202021 vizsgafeladatok\019 vizsga\019 vizsga\obj\Release\_019_vizsga.Properties.Resources.resources
+C:\Users\user\Desktop\202021 vizsgafeladatok\019 vizsga\019 vizsga\obj\Release\019 vizsga.csproj.GenerateResource.cache
+C:\Users\user\Desktop\202021 vizsgafeladatok\019 vizsga\019 vizsga\obj\Release\019 vizsga.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\202021 vizsgafeladatok\019 vizsga\019 vizsga\obj\Release\019 vizsga.exe
+C:\Users\user\Desktop\202021 vizsgafeladatok\019 vizsga\019 vizsga\obj\Release\019 vizsga.pdb
